@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tasks/1 Phase.md",
+            "file": "Mecha.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/1 Phase.md",
+                "file": "Mecha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,15 +95,15 @@
   },
   "active": "8960b4d39904c1d9",
   "lastOpenFiles": [
-    "Tasks/ToDo.md",
     "Mecha.md",
-    "Tasks/Phase I.md",
     "Brainstorming/2021-09-17.md",
+    "Tasks/1 Phase.md",
     "Mecha Components/Cores.md",
     "Mecha Components/Armaments.md",
+    "Tasks/ToDo.md",
+    "Tasks/Phase I.md",
     "Tasks/Untitled.md",
     "README.md",
-    "Mecha Components/Untitled.md",
-    "Cores.md"
+    "Mecha Components/Untitled.md"
   ]
 }
