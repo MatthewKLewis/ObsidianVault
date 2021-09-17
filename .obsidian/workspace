@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mecha.md",
+            "file": "Brainstorming/2021-09-17 Brainstorm..md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecha.md",
+                "file": "Brainstorming/2021-09-17 Brainstorm..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "8960b4d39904c1d9",
   "lastOpenFiles": [
+    "Brainstorming/2021-09-17 Brainstorm..md",
     "Mecha.md",
     "Brainstorming/2021-09-17.md",
     "Tasks/1 Phase.md",
@@ -103,7 +104,6 @@
     "Tasks/ToDo.md",
     "Tasks/Phase I.md",
     "Tasks/Untitled.md",
-    "README.md",
-    "Mecha Components/Untitled.md"
+    "README.md"
   ]
 }
