@@ -7,8 +7,11 @@
         "id": "8960b4d39904c1d9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Tasks/1 Phase.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tasks/1 Phase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,8 +78,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c1aeedd36c5bfd95",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,12 +96,15 @@
   },
   "active": "8960b4d39904c1d9",
   "lastOpenFiles": [
+    "Tasks/ToDo.md",
     "Mecha.md",
-    "Mecha Components/Armaments.md",
+    "Tasks/Phase I.md",
+    "Brainstorming/2021-09-17.md",
     "Mecha Components/Cores.md",
+    "Mecha Components/Armaments.md",
+    "Tasks/Untitled.md",
+    "README.md",
     "Mecha Components/Untitled.md",
-    "Cores.md",
-    "Untitled.md",
-    "testNote.md"
+    "Cores.md"
   ]
 }
