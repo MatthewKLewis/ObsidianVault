@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "053b6ac665aafd27",
+    "type": "split",
+    "children": [
+      {
+        "id": "8960b4d39904c1d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mecha.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "319465614c7e2307",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c5e101aabc6aec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b2ba88e99d56541",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97fab6d10cdee8f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Cores",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 437.0121879577637
+  },
+  "right": {
+    "id": "a71f4f013254c370",
+    "type": "split",
+    "children": [
+      {
+        "id": "931cfc285626b1e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc77e245dd89515c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mecha.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8960b4d39904c1d9",
+  "lastOpenFiles": [
+    "Mecha.md",
+    "Mecha Components/Armaments.md",
+    "Mecha Components/Cores.md",
+    "Mecha Components/Untitled.md",
+    "Cores.md",
+    "Untitled.md",
+    "testNote.md"
+  ]
+}
