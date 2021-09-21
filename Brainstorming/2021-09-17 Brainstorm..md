@@ -10,6 +10,7 @@ The worst trope in mecha is using some overwrought german / greek / latin term f
 Sum of "Cool Adjective" + "Machine Synecdoche" seems best.
 
 Grid Pawn
+Grid Slave
 Grid Knight
 Combat Engine
 Plated ___
