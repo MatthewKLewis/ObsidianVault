@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.0121879577637
+    "width": 228.01218795776367
   },
   "right": {
     "id": "a71f4f013254c370",
@@ -91,19 +91,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 194.63955688476562
   },
   "active": "8960b4d39904c1d9",
   "lastOpenFiles": [
     "Brainstorming/2021-09-17 Brainstorm..md",
-    "Mecha Components/Armaments.md",
-    "Mecha Components/Cores.md",
-    "Tasks/1st Phase.md",
-    "Stats and Attributes.md",
+    "Brainstorming/2021-09-23 Brainstorm..md",
     "Mecha.md",
-    "Core.md",
-    "Brainstorming/2021-09-17.md",
-    "Tasks/1 Phase.md",
-    "Tasks/ToDo.md"
+    "Stats and Attributes.md",
+    "Mecha Components/Heads.md",
+    "Mecha Components/Legs.md",
+    "Mecha Components/Arms.md",
+    "Mecha Components/Cores.md",
+    "Manufacturers/Mantissa.md",
+    "Manufacturers/Goshawk.md"
   ]
 }
