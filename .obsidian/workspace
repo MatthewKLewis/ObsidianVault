@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brainstorming/2021-09-17 Brainstorm..md",
+            "file": "Brainstorming/2021-09-23 Brainstorm..md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brainstorming/2021-09-17 Brainstorm..md",
+                "file": "Brainstorming/2021-09-23 Brainstorm..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "8960b4d39904c1d9",
   "lastOpenFiles": [
-    "Brainstorming/2021-09-17 Brainstorm..md",
     "Brainstorming/2021-09-23 Brainstorm..md",
-    "Mecha.md",
-    "Stats and Attributes.md",
-    "Mecha Components/Heads.md",
-    "Mecha Components/Legs.md",
-    "Mecha Components/Arms.md",
-    "Mecha Components/Cores.md",
-    "Manufacturers/Mantissa.md",
-    "Manufacturers/Goshawk.md"
+    "Brainstorming/2021-09-17 Brainstorm..md",
+    "Manufacturers/Fleetwood Marine.md",
+    "Manufacturers/GAZAN.md",
+    "Manufacturers/Avionisimmo.md",
+    "Manufacturers/Vincente.md",
+    "Manufacturers/Corgistics.md",
+    "Manufacturers/Yantian Industrial.md",
+    "Manufacturers/Yamashita.md",
+    "Manufacturers/Mantissa.md"
   ]
 }

@@ -31,22 +31,37 @@ Borderlands uses Nine (9) Standard Manufacturers
 - Highest rate of fire and recoil reduction, automatic weapons-only (as the trigger is held, rate of fire and recoil reduction increases); no semi-automatic weapons.
 ```
 
-My Nine:
+My Eight:
 - Apple (SiliconValley)
 			- [[Corgistics]]
+			- Makes the best Sensors.
+			- Doesn't integrate well with foreign manufactures.
 - Shenzen Industrial (Chinese)
 			- [[Yantian Industrial]]
+			- Affordable with odd bells and whistles
 - Winchester (Cowboy)
 			- [[Vincente]]
+			- Rugged, durable, simple, armored.
+			- Uses mostly hardened steel 
+			- Accurate semi-automatic weapons
 - Lockheed Martin / Oshkosh (White collar cold blooded)
 			- [[Fleetwood Marine]]
+			- High tech weaponry, fighter jet aesthetics
+			- Makes the best weapons
 - KAMAZ (Russian)
 			- [[GAZAN]]
+			- Heavy, stable, armored, all-terrain
+			- Makes the best stability legs
 - Eurojet
 			- [[Avionisimmo]]
+			- High speed, light armor
+			- Average across all categories, not as expensive as Fleetwood Marine.
 - Mitsubishi / Samsung?
 			- [[Yamashita]]
-- Animal Name
-			- [[Goshawk]]
+			- Folded 1000 times, melee specialty beam sabers
 - SciFi Latin / Greek Overwrought name
 			- [[Mantissa]]
+			- Energy Weapons, radars, etc.
+
+### Set Bonuses
+...are for nerds. But random rolled loot should produce a nice wide variety of playstyles and stats.
