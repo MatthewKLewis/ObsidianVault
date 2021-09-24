@@ -22,7 +22,11 @@ MS GUNDAM BATTLE OPERATION 2
 
 My Game:
 Manufacturers : 8
-Lines per Manufacturer: 6
-48 "Sets"
+Lines per Manufacturer:
+	- Scout
+	- Light
+	- Medium
+	- Heavy
+	- SuperHeavy
 
-120 individual pieces.
+40 models, 200 pieces.
