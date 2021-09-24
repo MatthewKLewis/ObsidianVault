@@ -1,15 +1,36 @@
 Work on the javascript based mecha shop interface is well under way.
 Implementing all of the obvious choices is more or less finished, and brainstorming the properties and relationships of mecha parts to stats is now needed.
 
-### Part Types
+### Part Types | Sub Types | Attributes
 - Head
+			- Radar Range
+			- Target Lock Range
 - Core
+			- Power Production
 - Arms
+	- Weapon Arm
+			- Damage
+			- Range
+			- Single / Semi / Automatic
+			- Armor Piercing
+			- D.O.T.
+	- Shield Arm
+			- Damage Reduction
 - Legs
-- Shoulders (currently labelled misc)
-- Not yet implemented:
+			- Mobility
+			- Stability
+- Shoulders
+	- Shoulder Weapon
+			- Damage
+			- Range
+			- Single / Semi / Automatic
+			- Armor Piercing
+			- D.O.T.
+	- Shoulder Booster?
+			- Thrust
+
+Not yet implemented:
 	- Additional Boosters?
-	- Shields?
 	- Slotted upgrades like rings, runes, etc?
 	- Drones
 
@@ -64,4 +85,5 @@ My Eight:
 			- Energy Weapons, radars, etc.
 
 ### Set Bonuses
-...are for nerds. But random rolled loot should produce a nice wide variety of playstyles and stats.
+...are for nerds. But random rolled loot should produce a nice wide variety of playstyles and stats. How many possible parts? How many realistic builds?
+

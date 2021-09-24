@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "053b6ac665aafd27",
+    "id": "9cac2fcfa6e1c1b8",
     "type": "split",
     "children": [
       {
-        "id": "8960b4d39904c1d9",
+        "id": "350d8ad25986b62e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "319465614c7e2307",
+    "id": "ed2711a7891b9228",
     "type": "split",
     "children": [
       {
-        "id": "24c5e101aabc6aec",
+        "id": "dbe078e33eb16d89",
         "type": "tabs",
         "children": [
           {
-            "id": "2b2ba88e99d56541",
+            "id": "79a8ac9eb300c141",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "97fab6d10cdee8f6",
+            "id": "7d6e23e9f5313ac5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,18 +52,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.01218795776367
+    "width": 300
   },
   "right": {
-    "id": "a71f4f013254c370",
+    "id": "733461dd71f71ed9",
     "type": "split",
     "children": [
       {
-        "id": "931cfc285626b1e3",
+        "id": "6bcdff749eca00f4",
         "type": "tabs",
         "children": [
           {
-            "id": "bc77e245dd89515c",
+            "id": "bcf3d952f470504c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -74,36 +74,29 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "c1aeedd36c5bfd95",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 194.63955688476562
+    "width": 300,
+    "collapsed": true
   },
-  "active": "8960b4d39904c1d9",
+  "active": "350d8ad25986b62e",
   "lastOpenFiles": [
     "Brainstorming/2021-09-23 Brainstorm..md",
-    "Brainstorming/2021-09-17 Brainstorm..md",
-    "Manufacturers/Fleetwood Marine.md",
-    "Manufacturers/GAZAN.md",
     "Manufacturers/Avionisimmo.md",
-    "Manufacturers/Vincente.md",
     "Manufacturers/Corgistics.md",
-    "Manufacturers/Yantian Industrial.md",
+    "Manufacturers/Vincente.md",
     "Manufacturers/Yamashita.md",
-    "Manufacturers/Mantissa.md"
+    "Manufacturers/Yantian Industrial.md",
+    "Manufacturers/Mantissa.md",
+    "Manufacturers/GAZAN.md",
+    "Manufacturers/Fleetwood Marine.md",
+    "Mecha.md"
   ]
 }
