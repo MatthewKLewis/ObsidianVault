@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brainstorming/2021-09-24 Brainstorm..md",
+            "file": "Manufacturers/Avionisimmo.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brainstorming/2021-09-24 Brainstorm..md",
+                "file": "Manufacturers/Avionisimmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,24 +87,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "350d8ad25986b62e",
   "lastOpenFiles": [
+    "Manufacturers/Avionisimmo.md",
+    "Manufacturers/Corgistics.md",
+    "Tasks/Revised 1st Phase.md",
+    "Tasks/1st Phase.md",
+    "Brainstorming/2021-09-27 Brainstorm..md",
+    "Untitled.md",
+    "Mecha.md",
     "Brainstorming/2021-09-24 Brainstorm..md",
     "Manufacturers/Fleetwood Marine.md",
-    "Manufacturers/Corgistics.md",
-    "Manufacturers/Avionisimmo.md",
-    "Manufacturers/Yantian Industrial.md",
-    "Manufacturers/Vincente.md",
-    "Manufacturers/Mantissa.md",
-    "Manufacturers/Yamashita.md",
-    "Manufacturers/GAZAN.md",
-    "Brainstorming/2021-09-23 Brainstorm..md"
+    "Manufacturers/Yantian Industrial.md"
   ]
 }
