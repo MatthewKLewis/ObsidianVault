@@ -1,7 +1,5 @@
 # Fleetwood Marine
 
-Massive militiary industrial white collar firm. Makes some of the best arm and shoulder weapon units.
-
-Lines:
-- FM 1
-- FM 2
+	Improved Speed and Attack Power.
+	
+Fleetwood Marine has been fulfilling contracts to the USA's military since the 1930's.

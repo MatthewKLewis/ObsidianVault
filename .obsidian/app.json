@@ -1,4 +1,5 @@
 {
   "fileSortOrder": "alphabetical",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

@@ -1,9 +1,5 @@
 # Corgistics
 
-Silicon valley based Mech producer. Specializes in Sensor arrays, making their head units the best in the business.
+	Improved Power Consumption and Sensor Range.
 
-Lines:
-
-- CorePro
-- iMech
-
+Corgistics opened a Mecha branch after the success of their Silicon Valley based IT firm.

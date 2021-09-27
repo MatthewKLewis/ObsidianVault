@@ -70,7 +70,7 @@ My Eight:
 			- High tech weaponry, fighter jet aesthetics
 			- Makes the best weapons
 - KAMAZ (Russian)
-			- [[GAZAN]]
+			- [[VOLGAZ]]
 			- Heavy, stable, armored, all-terrain
 			- Makes the best stability legs
 - Eurojet
