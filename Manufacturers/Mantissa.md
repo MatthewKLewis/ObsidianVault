@@ -1,7 +1,5 @@
 # Mantissa
 
-Russian heavy industial. Formerly a USSR state owned company.
-
-Lines:
-- ?
-- ?
+	Improved Sensor Power.
+	
+This mysterious start-up is based out of Oregon. Their CEO considers himself to be a 'futurist'.

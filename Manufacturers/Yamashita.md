@@ -1,7 +1,5 @@
 # Yamashita
 
-Russian heavy industial. Formerly a USSR state owned company.
-
-Lines:
-- ?
-- ?
+	Greatly Improved Speed.
+	
+A massive Japanese firm that produces everything from electric toothbrushes to submarines.
