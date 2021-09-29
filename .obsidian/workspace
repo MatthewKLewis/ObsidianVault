@@ -83,6 +83,14 @@
             "id": "f0a5eca3a72f7ef2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "95d3dd8fb65d4290",
+            "type": "leaf",
+            "state": {
               "type": "todo",
               "state": {}
             }
