@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Precursor",
+                "query": "Denton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,14 +83,6 @@
             "id": "f0a5eca3a72f7ef2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "95d3dd8fb65d4290",
-            "type": "leaf",
-            "state": {
               "type": "todo",
               "state": {}
             }
@@ -103,7 +95,7 @@
   },
   "active": "350d8ad25986b62e",
   "lastOpenFiles": [
-    "Brainstorming/2021-09-28 Observations.md",
+    "Story Chapters/Chapter 1.md",
     "Untitled.md",
     "Brainstorming/2021-09-28 Observations.md",
     "Manufacturers/Yantian Industrial.md",
@@ -112,7 +104,6 @@
     "Manufacturers/Vincente.md",
     "Manufacturers/Mantissa.md",
     "Manufacturers/Fleetwood Marine.md",
-    "Manufacturers/Corgistics.md",
-    "Manufacturers/Avionisimmo.md"
+    "Manufacturers/Corgistics.md"
   ]
 }
