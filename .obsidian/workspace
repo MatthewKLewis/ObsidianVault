@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Story Chapters/Chapter 1.md",
+            "file": "Kowloon Chapters/Chapter 1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story Chapters/Chapter 1.md",
+                "file": "Kowloon Chapters/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +83,14 @@
             "id": "f0a5eca3a72f7ef2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e82ffb55bde666f",
+            "type": "leaf",
+            "state": {
               "type": "todo",
               "state": {}
             }
@@ -95,8 +103,8 @@
   },
   "active": "350d8ad25986b62e",
   "lastOpenFiles": [
-    "Story Chapters/Chapter 1.md",
     "Untitled.md",
+    "Story Chapters/Chapter 1.md",
     "Brainstorming/2021-09-28 Observations.md",
     "Manufacturers/Yantian Industrial.md",
     "Manufacturers/Yamashita.md",
