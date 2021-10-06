@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kowloon Chapters/Chapter 1.md",
+            "file": "Kowloon Chapters/Abstract.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kowloon Chapters/Chapter 1.md",
+                "file": "Kowloon Chapters/Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "350d8ad25986b62e",
   "lastOpenFiles": [
+    "Kowloon Chapters/Untitled.md",
     "Untitled.md",
     "Story Chapters/Chapter 1.md",
     "Brainstorming/2021-09-28 Observations.md",
@@ -111,7 +112,6 @@
     "Manufacturers/VOLGAZ.md",
     "Manufacturers/Vincente.md",
     "Manufacturers/Mantissa.md",
-    "Manufacturers/Fleetwood Marine.md",
-    "Manufacturers/Corgistics.md"
+    "Manufacturers/Fleetwood Marine.md"
   ]
 }
