@@ -44,6 +44,11 @@ Guan tapped the telecombit in his ear and gazed out the window. In the pre-rave 
 
 "I'll fix here and quick if you don't mind then head out."
 
-Harry went down the stairs and almost broke into a jog across the dance floor as he headed for the bathroom. In a stall he produced a syringe and rubber hose and half filled his half dose. He prayed that this stuff was at least somewhat chemically similar to methadrenol. The opaque color indicated that it was probably by some small time cooks here in Lao Kuan and cut with rice starch and water. He had shot up worse. No flushing, and barely a bead of blood at the injection site. At least his medical degree was getting some use.
+Harry went down the stairs and almost broke into a jog across the dance floor as he headed for the bathroom. In a stall he produced a syringe and rubber hose and half filled his half dose. He prayed that this stuff was at least somewhat chemically similar to methadrenol. The opaque color indicated that it was probably made by some small time cooks here in Lao Kuan and cut with rice starch and water. He had shot up worse. No flushing, and barely a bead of blood at the injection site. At least his medical degree was getting some use.
 
-Out on the street the crowd waved like golden reeds in the marsh sunset of shop window and street light. Harry's head bobbed above the amber waves and his feet, far below him in the muddy depths, kicked and fluttered and carried him along. At the end of Selenita he left Little Mexico City, and turned onto Zixin St. 
+Out on the street the crowd waved like golden reeds in the marsh sunset of shop window and street light. Harry's head bobbed above the amber waves and his feet, far below him in the muddy depths, kicked and fluttered and carried him along. At the far end of Selenita he left Little Mexico City, and turned onto Zixin street where the tones of the crowd chatter abruptly shifted as it accomodated Cantonese vowels. Three more blocks floated by til he ran aground at the intersection with Bo. He recognized the uniform of a Bouk Bouk bouncer on a man smoking a cigarette.
+
+"I'm here from Guan. 6th Floor?"
+The bouncer, a Maori or Samoan behemoth of a man raised a masthead of an arm north along Bo street and pointed a finger left, "First turn down the alley there. I had better come with."
+
+In the alley two of Guan's men in Triad bombers were coming down a fire escape. Seeing Harry, they zipped up their uniforms tight and stuffed their hands in their front pockets. The unmistakable printing of the silhouettes of small caliber weapons glinted, one each, on the taut surface of the bomber jackets.
