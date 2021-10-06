@@ -20,11 +20,72 @@ Guan gets out of the hospital and attempts to kill the bioweapon, which kills hi
 
 ---
 
+--- Day 1 --- Sunday Night --- Harry Chapter
+- [x] Harry is sent on an errand. Takes 1 injection of riced methadrenol.
+- [ ] Harry arrives at the warehouse and views the carnage. Harry demands an explanation. Gets a description of the turf war between GS and Triad.
+- [ ] Harry brings his 'patient' Shimon back to the safehouse.
+- [ ] cont'd?
+- [ ] Harry takes his second dose home. Fixes. Sleeps.
+
+
+--- Day 2 --- Sunday Night - Monday Morning ---  Club BB Chapter
+- [ ] From late night to mid morning, Troy tortures Shimon and extracts the false confession.
+- [ ] Guan doesn't believe the confession.
+- [ ] Meeting of the Triad leaders early afternoon.
+
+
+--- Day 2 pt.2 --- Monday Afternoon --- Harry Chapter
+- [ ] Harry is called in late afternoon to patch up Shimon secretly. 
+- [ ] Harry is horrified, learns more about GS vs Triad from Guan and other Triads.
+- [ ] Harry gets Guan to promise to release Shimon at the end.
+- [ ] Harry stays in the safehouse to watch over Shimon. Meets girl? Shimon tells about Buddhism?
+
+(Triad double agent arranges the shooting of Guan on Tuesday, so the shooting happens wednesday)
+
+--- Day 3 --- Wednesday Late Night, Thursday Early AM --- Club BB Chapter
+- [ ] Shooting in Club BB. Harry hides in the basement. 
+- [ ] Guan is hospitalized. Longwei is killed.
+
+
+--- Day 3 pt.2 --- Thursday Late Morning. --- Harry Chapter
+- [ ] Harry visits Guan in the hospital. 
+- [ ] Harry meets someone from his past at the hospital.
+
+
+--- Flashback ---
+- [ ] Backstory on Harry. How he fell out of polite society.
+- [ ] cont'd
+
+
+--- Day 4 --- Friday ---
+- [ ] Meeting of Triad Leaders. Guan absent, they decide to attack the corporate lab.
+
+
+--- Day 5 --- Y  ---
+- [ ] Triads attack the lab, discover genemodded buddha.
+- [ ] cont'd
+
+
+--- Day 6 --- Z ---
+- [ ] Guan is released from the hospital, comes back to see the buddha tube in his safehouse.
+
+--- Flashback ---
+- [ ] Backstory on O'Donnel. How he fell out of polite society.
+- [ ] cont'd
+
+--- Day 6 pt.2 ---
+- [ ] Guan attacks buddha and gets killed.
+- [ ] Harry sets fire to the Club
+- [ ] Harry sees Buddha escape.
+
+---
+
 Characters (order of appearance):
 	Harry - MC
 	Shonda - pharmacy assistant
 	Longwei - Guan's nephew
 	Guan - Triad Elder
+	Troy - Triad Thug, Torturer, Bouk Bouk Bouncer
 	O'Donnel - Coroporate contact with the Buddhist Triads (uses some of his own DNA in 		the bioweapon?)
 	Shimon - Odd young man who is tortured for information
 	

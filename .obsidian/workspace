@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Harry",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,14 +83,6 @@
             "id": "f0a5eca3a72f7ef2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e82ffb55bde666f",
-            "type": "leaf",
-            "state": {
               "type": "todo",
               "state": {}
             }
@@ -105,14 +97,14 @@
   "active": "350d8ad25986b62e",
   "lastOpenFiles": [
     "Kowloon Chapters/Abstract.md",
-    "Kowloon Chapters/Chapter I.md",
-    "Kowloon Chapters/Chapter II.md",
-    "Kowloon Chapters/Chapter 1.md",
-    "Untitled.md",
-    "Kowloon Chapters/Untitled.md",
+    "Tasks/Revised 1st Phase.md",
+    "Tasks/1st Phase.md",
     "Story Chapters/Chapter 1.md",
+    "Untitled.md",
     "Brainstorming/2021-09-28 Observations.md",
     "Manufacturers/Yantian Industrial.md",
-    "Manufacturers/Yamashita.md"
+    "Manufacturers/Yamashita.md",
+    "Manufacturers/VOLGAZ.md",
+    "Manufacturers/Vincente.md"
   ]
 }
