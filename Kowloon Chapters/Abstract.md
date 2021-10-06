@@ -18,6 +18,8 @@ With Guan, the one naysayer, in the hospital the Triads decide to rob the corpor
 	
 Guan gets out of the hospital and attempts to kill the bioweapon, which kills him with some buddhist thing? Harry burns the safehouse down and escapes but sees the Buddha emerge.
 
+---
+
 Characters (order of appearance):
 	Harry - MC
 	Shonda - pharmacy assistant
@@ -28,4 +30,6 @@ Characters (order of appearance):
 	
 Other Ideas:
 	A Housewife in Kowloon!?
-	
+
+Sequel Idea:
+	Corporate Entity did all their experimentation on another planet, which is now full of bizarre buddha monster rejects.

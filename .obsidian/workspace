@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kowloon Chapters/Abstract.md",
+            "file": "Kowloon Chapters/Chapter 1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kowloon Chapters/Abstract.md",
+                "file": "Kowloon Chapters/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +103,8 @@
   },
   "active": "350d8ad25986b62e",
   "lastOpenFiles": [
-    "Kowloon Chapters/Abstract.md",
     "Kowloon Chapters/Chapter 1.md",
+    "Kowloon Chapters/Abstract.md",
     "Kowloon Chapters/Untitled.md",
     "Untitled.md",
     "Story Chapters/Chapter 1.md",
