@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kowloon Chapters/Chapter I.md",
-            "mode": "source"
+            "file": "Kowloon Chapters/Abstract.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Denton",
+                "query": "Harry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kowloon Chapters/Chapter I.md",
+                "file": "Kowloon Chapters/Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,15 +104,15 @@
   },
   "active": "350d8ad25986b62e",
   "lastOpenFiles": [
+    "Kowloon Chapters/Abstract.md",
+    "Kowloon Chapters/Chapter I.md",
+    "Kowloon Chapters/Chapter II.md",
     "Kowloon Chapters/Chapter 1.md",
     "Untitled.md",
-    "Kowloon Chapters/Abstract.md",
     "Kowloon Chapters/Untitled.md",
     "Story Chapters/Chapter 1.md",
     "Brainstorming/2021-09-28 Observations.md",
     "Manufacturers/Yantian Industrial.md",
-    "Manufacturers/Yamashita.md",
-    "Manufacturers/VOLGAZ.md",
-    "Manufacturers/Vincente.md"
+    "Manufacturers/Yamashita.md"
   ]
 }
