@@ -9,8 +9,35 @@ Harry pushed past a trio of Indonesian teenagers arguing with a security robot o
 "Sorry, baby, we shut."
 "Shut down? Closed?",  Harry replied.
 "We're getting audited. They say we give out too many pills for what the government say the population is here."
-"My patients..." Harry paused. He didn't need to lie to Shonda but it was best to keep up appearances in case there was a health department stooge hidden just out of view through the pharmacy window. "Will be very disappointed. Okay. Sorry. Goodbye."
+"My patients..." Harry paused. He didn't need to lie to Shonda but it was best to keep up appearances in case there was a health department stooge hidden just out of view through the pharmacy window. "Will be very disappointed. Okay. Sorry. Goodbye. Wait, how long?"
+"Probly a week."
 
 Almost immediately the termite colony started to emerge from Harry's wrists and ankles. The placebo of clinical grade junkie anticipation had worn off. Harry slogged back out of the pharmacy and threw his back against the wet vinyl exterior wall. Drips from a high up air conditioner slapped against his balding scalp and a few beetles emerged to slurp up the moisture. He crossed his arms and legs at the wrists and ankles and rubbed vigourously to think. The club. Harry will go to the club.
 
-The 'nightlife' at Club Bouk Bouk didn't get too crowded until at least 12pm, and Harry thanked god he wouldn't have to scream his beggar's plea to Guan, the assistant manager. In the back alley a teenager had loaded a retro DJ's turntable onto a hand cart and was attempting to ram the clearly too wide load through a narrow door.
+The 'nightlife' at Club Bouk Bouk didn't get too crowded until at least 12pm, and Harry thanked god he wouldn't have to scream his beggar's plea to Guan, the assistant manager. In the back alley a teenager had loaded a retro DJ's turntable onto a hand cart and was attempting to ram the clearly too wide load through a clearly too narrow door. Harry watched in amazement for a long ten seconds before offering to help him through.
+
+"TY, old"
+"You're welcome"
+
+The bugs relented temporarily in horor of the sacred duty of heavy furniture lifting.  Harry took the front end of the DJ rig and felt over the surface for loose parts, snatching up a removable tone arm and a cheapo guitar pedal and dropping them into his large coat pockets, before deftly levering the whole cabinet onto its side and walking backwards through the door, past the kitchen, and out into the open dance floor. 
+
+"I see you've met my nephew, Harry." 
+
+Guan was sitting at the bar with a bowl of pistachios. Harry nodded to the kid and they placed the turntables on the edge of the stage.
+
+"Oh, yes. Anyways nice to meet you..." Harry pivoted and stretched out a sweaty palm. The kid walked boldly to within a foot of Harry and darted his hand into Harry's coat pocket, retreiving the lost tone arm and pedal.
+"Longwei. You too, old."
+"My office." Guan said.
+
+Harry and Guan went behind the bar and ascended a thin spiral staircase to a single room on the second level. Guan went behind his desk and peered out of a small window down at the dance floor. Harry stood behind a painful looking metal folding chair in front of the desk.
+
+"You planned this well didn't you? You are here to ask me for something so you make a big show of doing a favor for my kin." Guan laughed. "I'll level with you, Harry, I have half a dose of some off-brand shit... unless you want to wait around for the party to start - then you can go down on the dance floor and ask around." He laughed again, not bothering to wait for Harry's awkward response. "You can take half of half now and half of half later but I need a favor in return."
+"What is it?"
+A flash of anger splashed across Guans face and he wrestled it into a polite grin. "I'm not in the habit of explaining the favor before securing the promise that it will be done -  but for gweilo... It's simple. I need a package from a storehouse on Zixin and Bo. I'll call them and tell them you're coming." 
+"Can't we just do the standing deal? I havent given your working girls a check up in a few weeks."
+"Harry, this is a much easier task." Guan's face was inscrutable during negotiations.
+"Ok. Fine. "
+
+Guan tapped the telecombit in his ear and gazed out the window. In the pre-rave silence Harry could hear the dialtone from Guan's earpiece. It rang several times and Guan ended the call before the voicemail kicked in.
+
+"Just go ahead Harry. Zixin and Bo streets, the southwest corner, 6th floor. I'll keep calling."
